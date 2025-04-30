@@ -26,7 +26,7 @@ src/main/java/br/com/fiap/checkpoint1
 ## 🚀 Como Executar o Projeto
 ### 1️⃣ Clonar o Repositório
 ```sh
-git clone https://github.com/joaorihan/fiap-checkpoint1.git
+git clone https://github.com/joaorihan/soapoint.git
 cd fiap-checkpoint1
 ```
 
